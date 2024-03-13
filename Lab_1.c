@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main(){
 
     int a;
@@ -13,7 +14,7 @@ int main(){
     int sum = a1 + a2 + a3 + a4;
     int product = a1 * a2 * a3 * a4;
 
-    printf("Сума = %d",sum);
+    printf("Сума = %d", sum);
     printf("\nДобуток = %d", product);
     
     return 0;
